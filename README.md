@@ -1,5 +1,8 @@
 # ecol42_Rush_Filler_Tornament
 
+ecol42の大会で作成した、Filler_Method
+
+ルール
 「　Introduction　」
 
 • Fillerは、一定の面積のボードに、対戦相手より多くのトークンを埋めていく陣取
